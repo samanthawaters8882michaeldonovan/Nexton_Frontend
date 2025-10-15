@@ -25,3 +25,5 @@ npm i @tomo-inc/tomo-telegram-sdk
 ```npm
 pnpm i @tomo-inc/tomo-telegram-sdk
 ```
+
+<!-- Auto-update: 2025-10-15T11:15:25.754162 -->
